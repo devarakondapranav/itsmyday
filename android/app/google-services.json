@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853793353219",
+    "firebase_url": "https://itsmyday-emsara-default-rtdb.firebaseio.com",
+    "project_id": "itsmyday-emsara",
+    "storage_bucket": "itsmyday-emsara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853793353219:android:6bc935eb3930c6ae91a836",
+        "android_client_info": {
+          "package_name": "com.example.itsmyday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853793353219-7ufodh76ht6jr2eu21s732gr16v0rn2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itsmyday",
+            "certificate_hash": "aba528b565b0ee383b8ace80c1b341bbf3188ff7"
+          }
+        },
+        {
+          "client_id": "853793353219-1auq6uhuq3ukspobosia875v9572h4gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxzFawKqAI_rZLm-wfyrXnJjfXwh2Tej8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853793353219-1auq6uhuq3ukspobosia875v9572h4gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
